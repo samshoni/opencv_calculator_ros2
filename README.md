@@ -9,7 +9,8 @@ This project is a **touchless gesture-controlled calculator** built using:
 - **Real-time fingertip tracking**
 - **Gesture modes (Tap / Safe)**
 
-![Working Demo](images/working.png)
+![Working Demo](https://raw.githubusercontent.com/samshoni/opencv_calculator_ros2/main/images/working.png)
+
 
 
 The calculator UI is drawn using OpenCV and placed over the webcam feed.  
