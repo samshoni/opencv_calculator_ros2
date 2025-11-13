@@ -1,0 +1,30 @@
+running egg_info
+creating ../../build/opencv_calculator/opencv_calculator.egg-info
+writing ../../build/opencv_calculator/opencv_calculator.egg-info/PKG-INFO
+writing dependency_links to ../../build/opencv_calculator/opencv_calculator.egg-info/dependency_links.txt
+writing requirements to ../../build/opencv_calculator/opencv_calculator.egg-info/requires.txt
+writing top-level names to ../../build/opencv_calculator/opencv_calculator.egg-info/top_level.txt
+writing manifest file '../../build/opencv_calculator/opencv_calculator.egg-info/SOURCES.txt'
+reading manifest file '../../build/opencv_calculator/opencv_calculator.egg-info/SOURCES.txt'
+writing manifest file '../../build/opencv_calculator/opencv_calculator.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/sam/vision_ws/build/opencv_calculator/build
+creating /home/sam/vision_ws/build/opencv_calculator/build/lib
+creating /home/sam/vision_ws/build/opencv_calculator/build/lib/opencv_calculator
+copying opencv_calculator/__init__.py -> /home/sam/vision_ws/build/opencv_calculator/build/lib/opencv_calculator
+running install
+running install_lib
+creating /home/sam/vision_ws/install/opencv_calculator/lib/python3.10/site-packages/opencv_calculator
+copying /home/sam/vision_ws/build/opencv_calculator/build/lib/opencv_calculator/__init__.py -> /home/sam/vision_ws/install/opencv_calculator/lib/python3.10/site-packages/opencv_calculator
+byte-compiling /home/sam/vision_ws/install/opencv_calculator/lib/python3.10/site-packages/opencv_calculator/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/sam/vision_ws/install/opencv_calculator/share/ament_index
+creating /home/sam/vision_ws/install/opencv_calculator/share/ament_index/resource_index
+creating /home/sam/vision_ws/install/opencv_calculator/share/ament_index/resource_index/packages
+copying resource/opencv_calculator -> /home/sam/vision_ws/install/opencv_calculator/share/ament_index/resource_index/packages
+copying package.xml -> /home/sam/vision_ws/install/opencv_calculator/share/opencv_calculator
+running install_egg_info
+Copying ../../build/opencv_calculator/opencv_calculator.egg-info to /home/sam/vision_ws/install/opencv_calculator/lib/python3.10/site-packages/opencv_calculator-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/sam/vision_ws/build/opencv_calculator/install.log'

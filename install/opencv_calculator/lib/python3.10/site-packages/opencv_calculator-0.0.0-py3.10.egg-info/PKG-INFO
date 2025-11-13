@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: opencv-calculator
+Version: 0.0.0
+Summary: OpenCV Gesture Calculator in ROS2 Humble
+Maintainer: sam
+Maintainer-email: sam@example.com
+License: Apache License 2.0

@@ -1,0 +1,17 @@
+package.xml
+setup.cfg
+setup.py
+../../build/opencv_calculator/opencv_calculator.egg-info/PKG-INFO
+../../build/opencv_calculator/opencv_calculator.egg-info/SOURCES.txt
+../../build/opencv_calculator/opencv_calculator.egg-info/dependency_links.txt
+../../build/opencv_calculator/opencv_calculator.egg-info/entry_points.txt
+../../build/opencv_calculator/opencv_calculator.egg-info/requires.txt
+../../build/opencv_calculator/opencv_calculator.egg-info/top_level.txt
+../../build/opencv_calculator/opencv_calculator.egg-info/zip-safe
+opencv_calculator/__init__.py
+opencv_calculator/calculator_node.py
+opencv_calculator/ui_buttons.py
+resource/opencv_calculator
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

@@ -1,0 +1,2 @@
+[console_scripts]
+calculator_node = opencv_calculator.calculator_node:main
